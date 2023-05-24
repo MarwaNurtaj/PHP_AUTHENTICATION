@@ -1,0 +1,2 @@
+# PHP_AUTHENTICATION
+PHP_AUTHENTICATION with session and ajax
